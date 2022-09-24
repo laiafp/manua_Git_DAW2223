@@ -1,4 +1,4 @@
-*Me proponía a hacer unos apuntes de FS cuando caí en lo bonicos que quedaría haerlos en Markdown, así que para que todos podáis disfrutar de las maravillas de Markdown (y contribuir):*
+*Aquí teneis unas rápidas nociones de como escribir con Markdown, para realizar paginas en GitHub:*
 
 ## MANUAL BÁSICO DE MARKDOWN
 ### Estéticas
