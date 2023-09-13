@@ -7,5 +7,5 @@
 4. Gestión de ramas ( Jose ) 
 5. Git ignore ( Natalia ) 
 6. Recuperar repositorio ( Fabio )
-7. Trabajo colaborativo - Pull request y Push Request ( Carlos ) 
+7. Trabajo colaborativo - Pull request y Push Request ( pull_push_request.md ) 
 7. [MarckDown](markdown.md)
